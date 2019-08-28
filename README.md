@@ -1,5 +1,7 @@
 # 高雄旅遊網
 
+![image](https://github.com/yunhsu473/yunhsu/blob/master/img/travel1.gif)
+
 ## 使用技巧
 
 HTML、CSS、JavaScript
